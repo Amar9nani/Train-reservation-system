@@ -25,7 +25,6 @@ A modern web application for booking train seats built with React, Supabase, and
 - **Database**: PostgreSQL (via Supabase)
 - **Authentication**: Supabase Auth
 - **State Management**: React Hooks
-- **Icons**: Lucide React
 
 ## Project Structure
 
@@ -90,6 +89,3 @@ npm run build
 4. Push to the branch
 5. Create a Pull Request
 
-## License
-
-MIT License
